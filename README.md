@@ -13,7 +13,7 @@ Please find the latest versions of TimeIt and TimeMe in this web page:
 
 - [https://github.com/choksheak/timeit/tree/master/distribution] (https://github.com/choksheak/timeit/tree/master/distribution)
 
-I currently only support Windows and Ubuntu Linux. If you need TimeIt for any other platform and/or architecture, it is very easy to build it yourself! Follow these steps to build TimeIt:
+I currently only provide pre-built binaries for Windows and Ubuntu Linux. If you need TimeIt for any other platform and/or architecture, it is very easy to build it yourself! Follow these steps to build TimeIt:
 
 1. Install Go on your computer. ([Download Go] (https://golang.org/dl/))
 2. Download [`timeit.go`] (https://github.com/choksheak/timeit/blob/master/timeit.go).
