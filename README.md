@@ -1,7 +1,7 @@
 TimeIt for Windows, Linux, and Mac
 ==================================
 
-TimeIt is a tiny cross-platform portable command line utility for measuring program execution time. It works the same way across Windows, Linux, and Mac, and any other platform or operating system supported by the Go language.
+TimeIt is a tiny cross-platform portable command line utility for measuring program execution time. It works the same way across Windows, Linux, and Mac, and any other platform or operating system supported by the Go language. The name "TimeIt" is inspired by [Python's timeit command] (https://docs.python.org/2/library/timeit.html), but that timeit does something different. "time" is not a good name because "time" is the name of existing commands in both Windows and Linux.
 
 TimeMe is a tiny utility that is used to test TimeIt during development. It initially started out as a throwaway script, but I think it ends up being useful enough to be used to test any application that requires introducing a variable delay (sleep time) and gives an expected exit code.
 
