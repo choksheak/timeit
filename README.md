@@ -74,5 +74,5 @@ Have fun timing your commands!
 The [FindFile] (https://github.com/choksheak/findfile) Team
 
 - email: [findfile.go@gmail.com] (mailto:findfile.go@gmail.com)
-- website: [https://github.com/choksheak/findfile] (https://github.com/choksheak/findfile)
+- website: [https://github.com/choksheak/timeit] (https://github.com/choksheak/timeit)
 
